@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Harsha%20SK&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/ML%20%26%20Data%20Science%20Enthusiast%20%7C%20RAG%20%7C%20Python&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Harsha%20SK&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20ML%20and%20Data%20Science%20Enthusiast%20-%20RAG%20-%20Python&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=AI%2FML+%26+Data+Science+Enthusiast;RAG+%7C+Python+%7C+Building+Intelligent+Solutions;Building+Virtual+Mouse+with+Computer+Vision;Building+RagX+-+Reliable+RAG+Systems" alt="Typing SVG" />
