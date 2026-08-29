@@ -15,18 +15,9 @@
 
 <br/>
 
-## 👨‍💻 Who I Am
-
-```typescript
-const harsha = {
-  title: "AI/ML & Data Science Enthusiast | RAG | Python | Building Intelligent Solutions",
-  stack: ["Java", "Python", "OpenCV", "MediaPipe", "PyAutoGUI", "LLMs", "Embeddings"],
-  launchedProjects: ["Virtual Mouse", "RagX"],
-  certifications: [],
-  status: "Exploring AI/ML, RAG systems, and Computer Vision",
-  openTo: "Collaborations on AI/ML and RAG-based projects",
-};
-```
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7dd3fc&height=90&text=AI%20ML%20Enthusiast%20-%20RAG%20-%20Python%20-%20Building%20Intelligent%20Solutions&fontSize=18&fontColor=ffffff&animation=fadeIn" />
+</div>
 
 <br/>
 
@@ -76,16 +67,50 @@ An AI system that generates reliable, context-aware answers by retrieving releva
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,c,java" />
 
-**AI / ML / Data**
+**AI / ML / Data Science**
 
-<img src="https://skillicons.dev/icons?i=opencv,py" />
+<img src="https://skillicons.dev/icons?i=opencv" />
 
-**AI / GenAI**
+<img src="https://img.shields.io/badge/Machine%20Learning-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/RAG-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Generative%20AI-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/NLP-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Computer%20Vision-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+
+**AI / RAG Project Technologies**
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector%20Databases-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Embeddings-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/LLMs-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Document%20Processing-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Semantic%20Search-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+
+**Web Development**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,tailwind" />
+
+<img src="https://img.shields.io/badge/REST%20APIs-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+
+**Backend / Database / Cloud**
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,git,github" />
+
+**Computer Vision / Automation**
+
+<img src="https://img.shields.io/badge/PyAutoGUI-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Real--time%20Hand%20Tracking-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Gesture%20Recognition-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117" />
 
 <br/>
 
