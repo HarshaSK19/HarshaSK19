@@ -28,7 +28,7 @@
 A real-time virtual mouse that uses computer vision and hand gestures to control cursor movement and mouse actions without physical hardware. Detects and tracks hand landmarks in real time via webcam and translates finger movements into mouse actions — enabling touch-free computer interaction.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshaSK19&repo=Virtual-Mouse&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
+<img src="https://github-readme-stats-pi-seven-28.vercel.app/api/pin/?username=HarshaSK19&repo=Virtual-Mouse&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 | Layer | Technology |
@@ -49,7 +49,7 @@ An AI system that generates reliable, context-aware answers by retrieving releva
 **Key capabilities:** document ingestion & knowledge-base creation, text chunking, embedding-based semantic retrieval, context-aware generation, and evidence-support evaluation for generated answers.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshaSK19&repo=RagX&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
+<img src="https://github-readme-stats-pi-seven-28.vercel.app/api/pin/?username=HarshaSK19&repo=RagX&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 | Layer | Technology |
@@ -118,8 +118,8 @@ An AI system that generates reliable, context-aware answers by retrieving releva
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshaSK19&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&icon_color=7dd3fc" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaSK19&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-stats-pi-seven-28.vercel.app/api?username=HarshaSK19&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&icon_color=7dd3fc" width="48%" />
+<img src="https://github-readme-stats-pi-seven-28.vercel.app/api/top-langs/?username=HarshaSK19&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="48%" />
 
 <img src="https://streak-stats.demolab.com/?user=HarshaSK19&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="90%" />
 
@@ -128,13 +128,13 @@ An AI system that generates reliable, context-aware answers by retrieving releva
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HarshaSK19&theme=nord&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://github-profile-trophy-harsha30.vercel.app/?username=HarshaSK19&theme=nord&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaSK19&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph-sooty-phi.vercel.app/graph?username=HarshaSK19&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="90%" />
 </div>
 
 <br/>
