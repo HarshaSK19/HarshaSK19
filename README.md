@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=220&section=header&text=Harsha%20SK&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20ML%20and%20Data%20Science%20Enthusiast%20-%20RAG%20-%20Python&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=AI%2FML+%26+Data+Science+Enthusiast;RAG+%7C+Python+%7C+Building+Intelligent+Solutions;Building+Virtual+Mouse+with+Computer+Vision;Building+RagX+-+Reliable+RAG+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=AI%2FML+%26+Data+Science+Enthusiast;RAG+%7C+Python+%7C+Building+Intelligent+Solutions;Building+Virtual+Mouse+with+Computer+Vision;Building+RagX+-+Reliable+RAG+Systems+%F0%9F%9A%A7" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@
 A real-time virtual mouse that uses computer vision and hand gestures to control cursor movement and mouse actions without physical hardware. Detects and tracks hand landmarks in real time via webcam and translates finger movements into mouse actions — enabling touch-free computer interaction.
 
 <div align="center">
-<img src="https://github-readme-stats-pi-seven-28.vercel.app/api/pin/?username=HarshaSK19&repo=Virtual-Mouse&theme=nord&border_color=3b82f6&title_color=3b82f6&text_color=c9d1d9&bg_color=0d1117" />
+<img src="https://github-readme-stats-pi-seven-28.vercel.app/api/pin/?username=HarshaSK19&repo=Virtual-mouse&theme=nord&border_color=3b82f6&title_color=3b82f6&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 | Layer | Technology |
@@ -38,13 +38,13 @@ A real-time virtual mouse that uses computer vision and hand gestures to control
 | Hand Tracking | MediaPipe |
 | Automation | PyAutoGUI |
 
-🔗 **Code:** [github.com/HarshaSK19/Virtual-Mouse](https://github.com/HarshaSK19/Virtual-Mouse)
+🔗 **Code:** [github.com/HarshaSK19/Virtual-mouse](https://github.com/HarshaSK19/Virtual-mouse)
 
 <br/>
 
-### 🤖 RagX — Retrieval-Augmented Generation with Evidence Reliability
+### 🤖 RagX — Retrieval-Augmented Generation with Evidence Reliability 🚧
 
-An AI system that generates reliable, context-aware answers by retrieving relevant documents from a knowledge base before generating a response, rather than relying purely on the LLM's internal knowledge. RagX goes further than conventional RAG by evaluating whether generated answers are actually supported by the retrieved evidence — reducing hallucinations and improving answer reliability.
+A research-focused RAG system currently in development, designed to retrieve relevant evidence and evaluate whether generated answers are actually supported by that evidence.
 
 **Key capabilities:** document ingestion & knowledge-base creation, text chunking, embedding-based semantic retrieval, context-aware generation, and evidence-support evaluation for generated answers.
 
@@ -155,4 +155,3 @@ An AI system that generates reliable, context-aware answers by retrieving releva
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=150&section=footer" />
 
 </div>
-
