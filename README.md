@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:3b82f6&height=90&text=Full%20Stack%20Development%20%C3%97%20Generative%20AI%20%C3%97%20Data%20Science&fontSize=18&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:3b82f6&height=90&text=Web%20Applications%20%C3%97%20Intelligent%20Systems%20%C3%97%20Data-Driven%20Solutions&fontSize=18&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <br/>
